@@ -1,5 +1,5 @@
 # 💫 About Me:
-Test display
+Hi my name is Artem. I'm a back-end Node.js developer with more then 6 years expirians
 
 
 ## 🌐 Socials:
